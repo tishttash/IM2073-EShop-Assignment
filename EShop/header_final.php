@@ -12,11 +12,12 @@
 
 <!--- header --->
 <body>
+  <!--- Header --->
   <div class="header">
     <div class="container">
       <div class="navbar">
-        <div vlss="logo">
-          <img src="logo.png" width="125px">
+        <div class="logo">
+          <img src="img/others/logo.png" width="125px">
         </div>
         <nav>
           <ul>
@@ -25,8 +26,10 @@
             <li><a href-"">Reviews</a></li>
           </ul>
         </nav>
-        <img src="cart.png" width="30px" height="30px">
+        <img src="img/others/cart.png" width="30px" height="30px">
       </div>
+    </div>
+  </div>
       <div class="row">
         <div class="col-2">
           <h1>Looking for beautifully decorated and delicious cakes?</h1>
