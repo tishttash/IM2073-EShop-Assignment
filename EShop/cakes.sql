@@ -93,8 +93,6 @@ insert into cakes values (
     './img/pdt/9.jpeg'
 );
 
-delete from cakes where id = 9;
-
 insert into cakes values (
 	10,
     'Strawberry Shortcake',
