@@ -299,7 +299,6 @@ table{
   border-collapse: collapse;
 }
 
-
 @media only screen and (max-width: 600px){
   .row{
     text-align: center;
