@@ -1,5 +1,5 @@
 <?php
-    //include header file
+    //include main page header file
     include('header_final.php');
 ?>          
           
