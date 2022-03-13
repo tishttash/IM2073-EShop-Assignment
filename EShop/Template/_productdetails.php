@@ -29,7 +29,6 @@
           <option>Earl Grey</option>
           <option>Red Velvet</option>
         </select>
-        <input type="number" value="1">
         <a href="" class="btn">Add to Cart</a>
         <h3>Cake Details <i class="fa fa-indent"></i></h3>
         <br>

@@ -83,12 +83,12 @@ p{
 }
 
 .header{
-  background-color: #fffaebff;
-  height: 780px;
+  background-color: #fae1ddff;
+  height: 500px;
 }
 
-.header .row{
-  margin-top: 50px;
+.looking-for .row{
+  margin-top: 70px;
 }
 
 .small-container{

@@ -14,27 +14,20 @@
     require('functions_final.php');
   ?>
 </head>
-
-<!--- header --->
 <body>
-  <!--- Header --->
-  <div class="header">
-    <div class="container">
-      <div class="navbar">
-        <div class="logo">
-          <img src="./img/others/logo.png" width="125px">
-        </div>
-        <nav>
-          <ul>
-            <li><a href-"main page link where ah">Home</a></li>
-            <li><a href-"_allproducts.php">Our Cakes</a></li>
-            <li><a href-"main page link where ah">Reviews</a></li>
-          </ul>
-        </nav>
-        <a href="cart.html>"<img src="./img/others/cart.png" width="30px" height="30px"></a>
+  <!--- Header Looking For--->
+  <div class="looking-for">
+    <div class="row">
+      <div class="col-2">
+        <h1>Looking for beautifully decorated and delicious cakes?</h1>
+        <p>You're in the right place! Order a cake for your loved ones with us today.</p>
+        <a href="" class="btn">See Cakes &#8594;</a>
+      </div>
+      <div class="col-2">
+        <img src="./img/others/cake.png">
       </div>
     </div>
-  <div>
+  </div>
 
 </body>
 </html>
