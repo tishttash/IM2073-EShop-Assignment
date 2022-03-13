@@ -152,14 +152,6 @@ h4{
   padding-right: 150px;
 }
 
-/*---- offer ----*/
-.offer{
-  background-color: #fffaebff;
-  margin-top: 70px;
-  padding: 30px 0;
-  height: 780px;
-}
-
 /*---- testimonial ----*/
 .testimonial{
   padding-top: 90px;
@@ -241,4 +233,88 @@ ul{
 .copyright{
   text-align: center;
   margin-top: 15px;
+}
+
+
+/*--- Product Page ---*/
+.row-2{
+  justify-content: space-between;
+  margin: 100px auto 50px;
+}
+select{
+  border: 1px solid #474747ff;
+  padding: 5px;
+}
+select:focus{
+  outline: none;
+}
+
+/*--- Single Product Details ---*/
+.single-product{
+  margin-top: 70px;
+}
+
+.single-product .col-2 img{
+  padding: 0;
+}
+
+.single-product .col-2{
+  padding: 25px;
+}
+
+.single-product h4{
+  margin: 20px 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.single-product select{
+  display: block;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.single-product input{
+  width: 50px;
+  height: 40px;
+  padding-left: 10px;
+  font-size: 20px;
+  margin-right: 10px;
+  border: 1px solid #474747ff;
+}
+input:focus{
+  outline: none;
+}
+
+.single-product .fa{
+  color: #feb4aeff;
+}
+
+/*--- Cart ---*/
+.cart{
+  margin: 80px auto;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+
+@media only screen and (max-width: 600px){
+  .row{
+    text-align: center;
+  }
+  .col-2, .col-3, .col-4{
+    flex-basis: 100%;
+  }
+  .single-product .row{
+    text-align: left;
+  }
+  .single-product .col-2{
+    padding: 20px 0;
+  }
+  .single-product h1{
+    font-size: 25px;
+    line-height: 30px;
+  }
 }
