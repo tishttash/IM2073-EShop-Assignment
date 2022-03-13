@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Bakery Name</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style_final.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,600;0,800;1,400;1,600;1,800&display=swap" rel="stylesheet">
@@ -16,7 +16,7 @@
       <div class="row">
         <div class="col-3">
           <i class="fa fa-quote-left"></i>
-          <p>yIt was absolutely pHenoMenaL! Delicious yet pretty. WOW!!!</p>
+          <p>It was absolutely pHenoMenaL! The cakes are delicious and the decration is mindblowing. WOW!!!</p>
           <div class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
@@ -29,7 +29,7 @@
         </div>
         <div class="col-3">
           <i class="fa fa-quote-left"></i>
-          <p>yIt was absolutely pHenoMenaL! Delicious yet pretty. WOW!!!</p>
+          <p>I love cakes but I am OBSESSED with the cakes here.</p>
           <div class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
@@ -42,7 +42,7 @@
         </div>
         <div class="col-3">
           <i class="fa fa-quote-left"></i>
-          <p>yIt was absolutely pHenoMenaL! Delicious yet pretty. WOW!!!</p>
+          <p>beep boop WOW!!!</p>
           <div class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>

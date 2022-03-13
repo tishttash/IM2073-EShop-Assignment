@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Bakery Name</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style_final.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,600;0,800;1,400;1,600;1,800&display=swap" rel="stylesheet">
@@ -15,7 +15,7 @@
     <div class="container">
       <div class="row">
         <div class="footer-col-1">
-          <img src="templogo.png">
+          <img src="logo.png">
           <!--- <h3>Bakery Name</h3> --->
         </div>
         <div class="footer-col-2">
@@ -25,7 +25,6 @@
         <div class="footer-col-3">
           <h3>Useful Links</h3>
           <ul>
-            <li>Sales</li>
             <li>Reviews</li>
             <li>FAQ</li>
             <li>Contact Us</li>

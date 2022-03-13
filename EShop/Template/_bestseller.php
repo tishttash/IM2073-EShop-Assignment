@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Bakery Name</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style_final.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,600;0,800;1,400;1,600;1,800&display=swap" rel="stylesheet">
@@ -15,44 +15,44 @@
     <h2 class="title">Our Best Sellers</h2>
     <div class="row">
       <div class="col-4">
-          <img src="wedding.jpeg">
-          <h4>Fan Fav 1</h4>
+          <img src="8.jpeg">
+          <h4>Bubble Tea</h4>
           <div class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
-          </div>
-          <p>$45</p>
-      </div>
-      <div class="col-4">
-          <img src="wedding.jpeg">
-          <h4>Fan Fav 2</h4>
-          <div class="rating">
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star-half-o"></i>
-          </div>
-          <p>$80</p>
-      </div>
-      <div class="col-4">
-          <img src="wedding.jpeg">
-          <h4>Fan Fav 3</h4>
-          <div class="rating">
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star-half-o"></i>
           </div>
           <p>$90</p>
       </div>
       <div class="col-4">
-          <img src="wedding.jpeg">
-          <h4>Fan Fav 4</h4>
+          <img src="10.jpeg">
+          <h4>Strawberry Shortcake</h4>
+          <div class="rating">
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star-half-o"></i>
+          </div>
+          <p>$58</p>
+      </div>
+      <div class="col-4">
+          <img src="7.jpeg">
+          <h4>Mahjong Extraordinaire</h4>
+          <div class="rating">
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star-half-o"></i>
+          </div>
+          <p>$120</p>
+      </div>
+      <div class="col-4">
+          <img src="2.jpeg">
+          <h4>Ombre Rosette</h4>
           <div class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
@@ -60,7 +60,7 @@
             <i class="fa fa-star"></i>
             <i class="fa fa-star-o"></i>
           </div>
-          <p>$65</p>
+          <p>$50</p>
       </div>
     </div>
   </div>
