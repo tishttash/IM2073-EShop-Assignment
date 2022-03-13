@@ -2,8 +2,15 @@
   //require mysql connection
   require('database/DBController.php');
 
+  //require Product Class
+  require('database/Product.php');
+
   //DBController object
   $db = new DBController();
 
+  //Product object (dependency injection)
+  $product = new Product($db);
+
+  //print_r($product->getData());
 ?>
 
