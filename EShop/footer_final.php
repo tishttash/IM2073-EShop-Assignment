@@ -15,7 +15,7 @@
     <div class="container">
       <div class="row">
         <div class="footer-col-1">
-          <img src="logo.png">
+          <img src="./img/others/logo.png">
           <!--- <h3>Bakery Name</h3> --->
         </div>
         <div class="footer-col-2">
@@ -40,7 +40,7 @@
           </ul>
         </div>
       </div>
-      <p class="copyright">Copyright 2022 - Bakery Name</p>
+      <p class="copyright">Copyright 2022 - Cake Studio</p>
     </div>
   </div>
 
