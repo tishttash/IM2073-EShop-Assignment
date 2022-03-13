@@ -24,7 +24,7 @@
             <i class="fa fa-star"></i>
             <i class="fa fa-star-half-o"></i>
           </div>
-          <img src="elon.jpeg">
+          <img src="/img/others/elon.jpeg">
           <h3>Elon Musk</h3>
         </div>
         <div class="col-3">
@@ -37,7 +37,7 @@
             <i class="fa fa-star"></i>
             <i class="fa fa-star-half-o"></i>
           </div>
-          <img src="elon.jpeg">
+          <img src="/img/others/elon.jpeg">
           <h3>Fake Elon Musk</h3>
         </div>
         <div class="col-3">
@@ -50,7 +50,7 @@
             <i class="fa fa-star"></i>
             <i class="fa fa-star-half-o"></i>
           </div>
-          <img src="elon.jpeg">
+          <img src="/img/others/elon.jpeg">
           <h3>Robot Elon Musk</h3>
         </div>
       </div>

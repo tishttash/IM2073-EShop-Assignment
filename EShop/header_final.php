@@ -42,7 +42,7 @@
           <a href="" class="btn">See Cakes &#8594;</a>
         </div>
         <div class="col-2">
-          <img src="cake.png">
+          <img src="/img/others/cake.png">
         </div>
       </div>
     </div>
