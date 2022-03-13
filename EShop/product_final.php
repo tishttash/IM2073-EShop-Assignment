@@ -1,6 +1,6 @@
 <?php
-    //include main header file
-    include('_mainHeader.php');
+    //include header file
+    include('header_final.php');
 ?>          
           
 <?php

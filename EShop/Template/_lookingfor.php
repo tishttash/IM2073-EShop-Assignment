@@ -9,10 +9,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,600;0,800;1,400;1,600;1,800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  <?php
-    //require functions_final.php file
-    require('functions_final.php');
-  ?>
 </head>
 <body>
   <!--- Header Looking For--->

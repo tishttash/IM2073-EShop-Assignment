@@ -21,7 +21,7 @@
     <div class="row">
     <?php foreach($product_shuffle as $item) { ?>
       <div class="col-4">
-          <img src="<?php echo $item['image']??"./img/pdt/1.jpeg";?>">
+          <a href="<?php printf('%s?id=%s','product_final.php',$item['id']);?>"><img src="<?php echo $item['image']??"./img/pdt/1.jpeg";?>"></a>
           <h4><?php echo $item['name']??"Unknown";?></h4>
           <div class="rating">
             <i class="fa fa-star"></i>

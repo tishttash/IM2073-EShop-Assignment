@@ -1,3 +1,10 @@
+<?php
+  $item_id = $_GET['id']??1;
+  foreach($product->getData() as $item):
+    if($item['id'] == $item_id):
+
+?>
+
 <!DOCTYPE html>
 <html lang='en'>
 <head>
@@ -16,12 +23,12 @@
   <div class="small-container single-product">
     <div class="row">
       <div class="col-2">
-        <img src="1.jpeg" width="100%">
+        <img src="<?php echo $item['image']??"./img/pdt/1.jpeg";?>" width="100%">
       </div>
       <div class="col-2">
-        <p>Home / All Cakes</p>
-        <h1>Cherry Blossom</h1>
-        <h4>$45</h4>
+        <!-- <p>Home / All Cakes</p> -->
+        <h1><?php echo $item['name']??"Unknown";?></h1>
+        <h4><?php echo $item['cost']??0;?></h4>
         <select>
           <option>Select Flavour</option>
           <option>Chocolate</option>
@@ -39,3 +46,8 @@
 
 </body>
 </html>
+
+<?php
+  endif;
+  endforeach;
+?>

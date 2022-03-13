@@ -1,6 +1,7 @@
 <?php
-    //include main page header file
+    //include header files
     include('header_final.php');
+    include('Template/_lookingfor.php');
 ?>          
           
 <?php
