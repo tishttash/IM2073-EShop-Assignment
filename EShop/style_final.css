@@ -45,29 +45,6 @@ p{
   padding-right: 25px;
 }
 
-.row{
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.col-2{
-  flex-basis: 50%;
-  min-width: 300px;
-}
-
-.col-2 img{
-  max-width: 100%;
-  padding: 50px 0;
-}
-
-.col-2 h1{
-  font-size: 50px;
-  line-height: 60px;
-  margin: 25px 0;
-}
-
 .btn{
   display: inline-block;
   background:  #feb4aeff;
@@ -84,11 +61,38 @@ p{
 
 .header{
   background-color: #fae1ddff;
-  height: 150px;
+  height: 100px;
 }
 
 .looking-for .row{
   margin-top: 70px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.row{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.looking-for .col-2{
+  flex-basis: 50%;
+  min-width: 300px;
+}
+
+.looking-for .col-2 img{
+  max-width: 100%;
+  padding: 50px 0;
+}
+
+.looking-for .col-2 h1{
+  font-size: 50px;
+  line-height: 60px;
+  margin: 25px 0;
 }
 
 .small-container{
@@ -194,6 +198,7 @@ h4{
 
 /*---- footer ----*/
 .footer{
+  max-width: 1300px;
   background: #fae1ddff;
   color: #454545ff;
   font-size: 14px;
