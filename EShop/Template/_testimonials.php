@@ -16,7 +16,7 @@
       <div class="row">
         <div class="col-3">
           <i class="fa fa-quote-left"></i>
-          <p>It was absolutely pHenoMenaL! The cakes are delicious and the decration is mindblowing. WOW!!!</p>
+          <p>The cakes are delicious and the decoration is amazing.</p>
           <div class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
@@ -42,7 +42,7 @@
         </div>
         <div class="col-3">
           <i class="fa fa-quote-left"></i>
-          <p>beep boop WOW!!!</p>
+          <p>The cake was absolutely pHenoMenaL! like WOW!!!</p>
           <div class="rating">
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
