@@ -15,7 +15,7 @@
     <h2 class="title">Our Best Sellers</h2>
     <div class="row">
       <div class="col-4">
-          <img src="8.jpeg">
+          <img src="./img/pdt/8.jpeg">
           <h4>Bubble Tea</h4>
           <div class="rating">
             <i class="fa fa-star"></i>
@@ -24,10 +24,10 @@
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
           </div>
-          <p>$90</p>
+          <p>90</p>
       </div>
       <div class="col-4">
-          <img src="10.jpeg">
+          <img src="./img/pdt/10.jpeg">
           <h4>Strawberry Shortcake</h4>
           <div class="rating">
             <i class="fa fa-star"></i>
@@ -36,10 +36,10 @@
             <i class="fa fa-star"></i>
             <i class="fa fa-star-half-o"></i>
           </div>
-          <p>$58</p>
+          <p>58</p>
       </div>
       <div class="col-4">
-          <img src="7.jpeg">
+          <img src="./img/pdt/7.jpeg">
           <h4>Mahjong Extraordinaire</h4>
           <div class="rating">
             <i class="fa fa-star"></i>
@@ -48,19 +48,7 @@
             <i class="fa fa-star"></i>
             <i class="fa fa-star-half-o"></i>
           </div>
-          <p>$120</p>
-      </div>
-      <div class="col-4">
-          <img src="2.jpeg">
-          <h4>Ombre Rosette</h4>
-          <div class="rating">
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star-o"></i>
-          </div>
-          <p>$50</p>
+          <p>120</p>
       </div>
     </div>
   </div>
