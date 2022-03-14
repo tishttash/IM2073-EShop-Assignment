@@ -34,5 +34,6 @@
       </div>
       <?php } //close foreach function ?>
     </div>
+  
 </body>
 </html>
