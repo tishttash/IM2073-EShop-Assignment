@@ -12,15 +12,17 @@
 </head>
 <body>
   <!--- Header Looking For--->
-  <div class="looking-for">
-    <div class="row">
-      <div class="col-2">
-        <h1>Looking for beautifully decorated and delicious cakes?</h1>
-        <p>You're in the right place! Order a cake for your loved ones with us today.</p>
-        <a href="" class="btn">See Cakes &#8594;</a>
-      </div>
-      <div class="col-2">
-        <img src="./img/others/cake.png">
+  <div class="container">
+    <div class="looking-for">
+      <div class="row">
+        <div class="col-2">
+          <h1>Looking for beautifully decorated and delicious cakes?</h1>
+          <p>You're in the right place! Order a cake for your loved ones with us today.</p>
+          <a href="" class="btn">See Cakes &#8594;</a>
+        </div>
+        <div class="col-2">
+          <img src="./img/others/cakes.jpeg">
+        </div>
       </div>
     </div>
   </div>
