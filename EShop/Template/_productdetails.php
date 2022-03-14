@@ -36,7 +36,7 @@
           <option>Earl Grey</option>
           <option>Red Velvet</option>
         </select>
-        <a href="" class="btn">Add to Cart</a>
+        <a href="" class="btn">Buy Now</a>
         <h3>Cake Details <i class="fa fa-indent"></i></h3>
         <br>
         <p>A simple yet elegant cake to remind your loved one of Japan's wonders!</p>
