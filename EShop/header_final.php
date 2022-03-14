@@ -22,7 +22,7 @@
     <div class="container">
       <div class="navbar">
         <div class="logo">
-          <img src="./img/others/logo.png" width="125px">
+        <a href="<?php printf('index_final.php');?>"><img src="./img/others/logo.png" width="125px"></a>
         </div>
         <nav>
           <ul>

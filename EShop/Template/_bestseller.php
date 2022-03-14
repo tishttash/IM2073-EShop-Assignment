@@ -15,7 +15,7 @@
     <h2 class="title">Our Best Sellers</h2>
     <div class="row">
       <div class="col-4">
-          <img src="./img/pdt/8.jpeg">
+        <a href="<?php printf('product_final.php?id=8');?>"><img src="./img/pdt/8.jpeg"></a>
           <h4>Bubble Tea</h4>
           <div class="rating">
             <i class="fa fa-star"></i>
@@ -27,7 +27,7 @@
           <p>90</p>
       </div>
       <div class="col-4">
-          <img src="./img/pdt/10.jpeg">
+        <a href="<?php printf('product_final.php?id=10');?>"><img src="./img/pdt/10.jpeg"></a>
           <h4>Strawberry Shortcake</h4>
           <div class="rating">
             <i class="fa fa-star"></i>
@@ -39,7 +39,7 @@
           <p>58</p>
       </div>
       <div class="col-4">
-          <img src="./img/pdt/7.jpeg">
+        <a href="<?php printf('product_final.php?id=7');?>"><img src="./img/pdt/7.jpeg"></a>
           <h4>Mahjong Extraordinaire</h4>
           <div class="rating">
             <i class="fa fa-star"></i>
