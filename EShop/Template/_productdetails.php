@@ -2,7 +2,6 @@
   $item_id = $_GET['id']??1;
   foreach($product->getData() as $item):
     if($item['id'] == $item_id):
-
 ?>
 
 <!DOCTYPE html>
@@ -36,7 +35,11 @@
           <option>Earl Grey</option>
           <option>Red Velvet</option>
         </select>
+<<<<<<< HEAD
+        <a href="<?php printf('cart_final.php');?>"class="btn"><?php echo $update->updateData($item_id);?>Buy Now</a>
+=======
         <a href="" class="btn">Buy Now</a>
+>>>>>>> bc1584ea3c8109a0fbb62e4737579efc4d932272
         <h3>Cake Details <i class="fa fa-indent"></i></h3>
         <br>
         <p>A simple yet elegant cake to remind your loved one of Japan's wonders!</p>
