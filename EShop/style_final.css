@@ -121,8 +121,9 @@ p{
   position: relative;
   line-height: 60 px;
   color: #555;
+  font-size: 30px;
 }
-.title::after{
+/* .title::after{
   content: "";
   background: #fcd5ceff;
   width: 100px;
@@ -130,9 +131,9 @@ p{
   border-radius: 5px;
   position: absolute;
   bottom: -5px;
-  left: 50%;
-  tranform: translateX(-50%);
-}
+  left: 45%;
+  transform: translateX(45%);
+} */
 
 h4{
   color: #555;
@@ -243,7 +244,7 @@ ul{
 /*--- Product Page ---*/
 .row-2{
   justify-content: space-between;
-  margin: 100px auto 50px;
+  margin: 0px auto 50px;
 }
 select{
   border: 1px solid #474747ff;
@@ -254,7 +255,7 @@ select:focus{
 }
 /*-- Filter for Product Page --*/
 .filters{
-  padding: 40px 0 0 0;
+  padding: 0px 0 0 0;
 }
 .filters ul{
   margin: 0;

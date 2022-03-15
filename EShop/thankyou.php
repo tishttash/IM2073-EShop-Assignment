@@ -29,7 +29,7 @@
         <div class="col-2">
           <h1>Your cake has been successfully bought!</h1>
           <p>Keep a look out for our confirmation email.</p>
-          <a href="<?php printf('index_final.php');?>" class="btn">Okay</a>
+          <a href="<?php printf('index_final.php');?>" class="btn">Back to Home</a>
         </div>
         <div class="col-2">
           <img src="./img/others/thankyou.png">
@@ -42,6 +42,8 @@
 </html>
 
 <?php
+    // include elon musks
+    include('Template/_testimonials.php');
     //include footer file
     include('footer_final.php');
 ?> 
