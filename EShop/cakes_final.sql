@@ -104,5 +104,52 @@ insert into cakes values (
     './img/pdt/10.jpeg'
 );
 
+use bakery;
+
+ALTER TABLE cakes
+ADD filter int;
+
+update  cakes
+set     filter = 1
+where   id = 1;
+
+select * from cakes;
+
+update  cakes
+set     filter = 1
+where   id = 2;
+
+update  cakes
+set     filter = 2
+where   id = 3;
+
+update  cakes
+set     filter = 2
+where   id = 4;
+
+update  cakes
+set     filter = 3
+where   id = 5;
+
+update  cakes
+set     filter = 3
+where   id = 6;
+
+update  cakes
+set     filter = 4
+where   id = 7;
+
+update  cakes
+set     filter = 4
+where   id = 8;
+
+update  cakes
+set     filter = 5
+where   id = 9;
+
+update  cakes
+set     filter = 5
+where   id = 10;
 
 
+select * from cakes;
