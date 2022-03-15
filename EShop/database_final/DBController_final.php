@@ -20,7 +20,7 @@ class DBController_final
             echo"Fail".$this->con->connect_error;
         }
         // CAN REMOVE THE BELOW MESSAGE WHEN DONE, THIS IS JUST FOR DEBUGGING, TO SEE IF YOU SUCCESSFULLY CONNECT!
-        echo'connection successful!';
+        //echo'connection successful!';
     }
 
     public function __destruct(){

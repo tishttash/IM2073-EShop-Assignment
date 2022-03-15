@@ -14,6 +14,6 @@
   //Update object ???
   // $update = new Update($db);
 
-  print_r($product->getData());
+  //print_r($product->getData());
 ?>
 

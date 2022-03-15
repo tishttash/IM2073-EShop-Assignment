@@ -1,3 +1,8 @@
+<?php
+  //include header file
+  include('header_final.php');
+?>
+
 <!DOCTYPE html>
 <html lang='en'>
 <head>
@@ -19,7 +24,7 @@
         <div class="col-2">
           <h1>Your cake has been successfully bought!</h1>
           <p>Keep a look out for our confirmation email.</p>
-          <a href="" class="btn">Okay</a>
+          <a href="<?php printf('index_final.php');?>" class="btn">Okay</a>
         </div>
         <div class="col-2">
           <img src="./img/others/thankyou.png">
@@ -30,3 +35,8 @@
 
 </body>
 </html>
+
+<?php
+    //include footer file
+    include('footer_final.php');
+?> 
