@@ -159,8 +159,9 @@ h4{
 
 /*---- testimonial ----*/
 .testimonial{
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 60px;
+  margin-bottom: 80px;
 }
 
 .testimonial .col-3{

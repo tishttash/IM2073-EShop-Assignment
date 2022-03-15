@@ -12,7 +12,10 @@
 
   <!--- Testimonials --->
   <div class="testimonial">
-    <div class="small-container">
+    <div id="bottom" class="small-container">
+    <div class="row row-2">
+      <h2 class="title">Reviews</h2>
+    </div>
       <div class="row">
         <div class="col-3">
           <i class="fa fa-quote-left"></i>

@@ -1,4 +1,10 @@
 <?php
+    //include header files
+    include('header_final.php');
+    include('Template/_lookingfor.php');
+?> 
+
+<?php
   $product_shuffle = $product->getData();
 ?>
 
@@ -39,7 +45,7 @@
       <ul class="all-cakes">
         <div class="row">
           <?php foreach($product_shuffle as $item) { ?>
-            <div class="col-4" data-category="<?php echo $item['type'];?>">
+            <div class="col-4" data-category="<?php echo $item['filter'];?>">
               <a href="<?php printf('%s?id=%s','product_final.php',$item['id']);?>"><img src="<?php echo $item['image']??"./img/pdt/1.jpeg";?>"></a>
               <h4><?php echo $item['name']??"Unknown";?></h4>
               <div class="rating">
