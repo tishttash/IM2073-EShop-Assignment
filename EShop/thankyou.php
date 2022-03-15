@@ -1,6 +1,11 @@
 <?php
   //include header file
   include('header_final.php');
+
+  $item_id = $_GET['id'];
+  $item_id = (int)$item_id;
+  $product->updateData($item_id);
+
 ?>
 
 <!DOCTYPE html>

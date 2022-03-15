@@ -11,9 +11,6 @@
   //Product object (dependency injection)
   $product = new Product_final($db);
 
-  //Update object ???
-  // $update = new Update($db);
-
   //print_r($product->getData());
 ?>
 
