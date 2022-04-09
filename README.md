@@ -1,5 +1,5 @@
 # IM2073-EShop-Assignment
-mini custom cake online shop for IM2073 Web programming component
+Mini custom cake online shop for IM2073 Web programming component
 
 Created with HTML, CSS, JavaScript, PHP, MySQL database
 
